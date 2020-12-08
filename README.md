@@ -1,6 +1,8 @@
 # BlockChain
-BlockChain Developer - Software
-     New
-     Stellar
+$BlockChain Developer - Software
      Hyperledger - Fabric
      Solidity
+     New
+     Stellar
+$Smart Contract
+$Cryptography
